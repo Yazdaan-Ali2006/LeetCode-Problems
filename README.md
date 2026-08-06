@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -14,5 +15,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
