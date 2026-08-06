@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
