@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
