@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
