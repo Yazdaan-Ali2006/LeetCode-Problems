@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
