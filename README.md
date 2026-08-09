@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
