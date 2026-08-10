@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Recursion
