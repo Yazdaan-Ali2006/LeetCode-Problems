@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
