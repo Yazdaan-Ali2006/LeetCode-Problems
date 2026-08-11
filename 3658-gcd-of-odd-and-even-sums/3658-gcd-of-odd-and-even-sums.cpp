@@ -17,8 +17,8 @@ int gcd(int a, int b)
 
 }
     int gcdOfOddEvenSums(int n) {
-    int sumeven = n * (n + 1);
-    int sumodd = n * n;
+    int sumeven = n*(n + 1);
+    int sumodd = n*n;
     return gcd(sumodd, sumeven);
 }
 };
