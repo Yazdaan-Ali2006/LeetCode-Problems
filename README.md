@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
