@@ -162,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
