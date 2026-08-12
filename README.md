@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
