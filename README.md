@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
