@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
