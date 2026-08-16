@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
