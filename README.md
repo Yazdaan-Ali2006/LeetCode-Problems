@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Recursion
