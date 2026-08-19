@@ -1,37 +1,34 @@
-class Solution
-{
+class Solution {
 public:
-    vector<int> luckyNumbers(vector<vector<int>> &matrix)
-    {
-        vector<int> res;
+    vector<int> luckyNumbers(vector<vector<int>>& matrix) {
+        vector<int> result;
 
-        for (int i = 0; i < matrix.size(); i++)
-        {
+        for (int i = 0; i < matrix.size(); i++) {
+
             int min = matrix[i][0];
-            int minimumindex=0;
-            for (int j = 0; j < matrix[i].size(); j++)
-            {
+            int minindex = 0;
 
-                if (min > matrix[i][j])
-                {
+            for (int j = 1; j < matrix[i].size(); j++) {
+                if (min > matrix[i][j]) {
                     min = matrix[i][j];
-                    minimumindex=j;
-
+                    minindex = j;
                 }
             }
-             int max=matrix[0][minimumindex];
-            for (int j = 0; j < matrix.size(); j++)
-            {
 
-                if (max < matrix[j][minimumindex])
-                {
-                    max = matrix[j][minimumindex];
+            bool lucky = true;
+
+            for (int k = 0; k < matrix.size(); k++) {
+                if (matrix[k][minindex] > min) {
+                    lucky = false;
+                    break;
                 }
             }
-            if(max==min){
-                res.push_back(max);
+
+            if (lucky) {
+                result.push_back(min);
             }
         }
-        return res;
+
+        return result;
     }
 };
