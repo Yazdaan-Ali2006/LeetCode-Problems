@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
