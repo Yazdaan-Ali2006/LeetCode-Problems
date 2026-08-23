@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
