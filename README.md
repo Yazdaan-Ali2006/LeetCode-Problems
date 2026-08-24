@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
