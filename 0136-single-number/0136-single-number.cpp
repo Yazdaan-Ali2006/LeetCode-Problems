@@ -7,6 +7,7 @@ public:
             if (nums[i] != nums[i + 1])
                 return nums[i];
         }
+        //for the sake of last element
 
         return nums.back();
     }
