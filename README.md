@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0877-stone-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
