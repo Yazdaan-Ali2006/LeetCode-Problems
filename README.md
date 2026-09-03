@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
