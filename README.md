@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
