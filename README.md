@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -400,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
