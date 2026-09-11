@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
