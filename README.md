@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
