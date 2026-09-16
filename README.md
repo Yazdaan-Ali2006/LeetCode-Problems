@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1025-divisor-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
