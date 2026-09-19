@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
