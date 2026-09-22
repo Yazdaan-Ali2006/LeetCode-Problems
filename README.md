@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
