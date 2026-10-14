@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3731-find-missing-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
