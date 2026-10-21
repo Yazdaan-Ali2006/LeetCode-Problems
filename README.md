@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Yazdaan-Ali2006/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
